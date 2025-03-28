@@ -8,3 +8,9 @@ Additionally, clinical information like the date of OCD diagnosis, duration of s
 Severity of these symptoms is assessed using the Yale-Brown Obsessive-Compulsive Scale (Y-BOCS) scores for both obsessions and compulsions. Furthermore, it documents any co-occurring mental health conditions, including depression and anxiety diagnoses. Notably, the dataset outlines the medications prescribed to patients, offering valuable insights into the treatment approaches employed.
 
 It also records whether there is a family history of OCD, shedding light on potential genetic or environmental factors. Overall, this dataset serves as a valuable resource for researchers, clinicians, and mental health professionals seeking to gain a deeper understanding of OCD and its manifestations within a diverse patient population
+
+I have also prepared the Tableau Dashboard with multiple data visualisations for different aspects from the dataset which is shown below.
+
+![Screenshot 2025-03-28 161036](https://github.com/user-attachments/assets/7d1d816e-3d46-4d3b-93d9-adc102e58ff4)
+
+![Screenshot 2025-03-28 161054](https://github.com/user-attachments/assets/91598afb-a352-4be1-8ae9-a5194c0e65ac)
